@@ -1,0 +1,6 @@
+{
+  "name": "ManufacPro - Sistema de Gestão e PCP Industrial",
+  "description": "Sistema integrado de Planejamento e Controle de Produção (PCP) e ERP para manufatura com fichas técnicas, gestão de insumos, ordens de produção e relatórios operacionais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
